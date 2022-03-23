@@ -1,0 +1,7 @@
+In python you can perform data analysis
+In python you can build programs and keep track of the process
+Dictionaries are used to store key-value pairs
+Lists are used to store any kinds of items you want
+Tuples are immutable, once they're created, it can't be changed
+We use modules to store pieces of your programs to increase efficiency and automation
+We use functions to increase efficiency
